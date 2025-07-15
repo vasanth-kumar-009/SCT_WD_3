@@ -22,10 +22,10 @@ I'm actively working on debugging and improving the gameplay logic to ensure a s
 <p>JavaScript</p>
 
 🔗 Live Demo
-👉 [Try Tic-Tac-Toe Web Application ](https://giridhar-gedela.github.io/SCT_WD_3/)
+👉 [Try Tic-Tac-Toe Web Application ](https://vasanth-kumar-009.github.io/SCT_WD_3/)
 
 📂 Source Code
-📁 [GitHub Repository](https://github.com/Giridhar-Gedela/SCT_WD_3)
+📁 [GitHub Repository](https://github.com/vasanth-kumar-009/SCT_WD_3)
 
 📸 Screenshot
 
